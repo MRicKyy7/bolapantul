@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 sedang melakukan uji coba github
 bisa ga yaaa
 bisaa
+=======
+sedang melakukan uji coba github 
+tesss
+.
+>>>>>>> a4a55ef86fba78e4f91496c43ea36094e0804c5b
